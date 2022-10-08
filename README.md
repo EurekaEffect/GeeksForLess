@@ -2,7 +2,7 @@
 Test task
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58750228/194712640-b2414e8a-2078-486d-849a-c2f536e5aea6.gif" width="15%"/>
+<img src="https://user-images.githubusercontent.com/58750228/194712640-b2414e8a-2078-486d-849a-c2f536e5aea6.gif" width="300" height="240"/>
 </p>
 
 1. Вводить арифметические выражения, содержащие целые и дробные
